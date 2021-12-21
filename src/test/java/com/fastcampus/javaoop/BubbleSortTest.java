@@ -13,7 +13,7 @@ class BubbleSortTest {
 	@Test
 	void given_List_WhenExecuting_ThenReturnSortedList(){
 	// [ Given ]
-	BubbleSort<Integer> bubbleSort = new BubbleSort<>();
+	Sort<Integer> bubbleSort = new BubbleSort<>();
 
 
 	// [ when ]
